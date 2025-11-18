@@ -21,24 +21,24 @@
 
 ### 1. Tela de Login
 
-![Tela de Login](![tela login.png](../../Pictures/tela%20login.png))
+![Tela de Login]( /images/tela%20login.png)
 
 ### 2. Tela de Login (Erro)
 
-![Tela de Login com Erro](      ![tela login erro.png](../../Pictures/tela%20login%20erro.png)         )
+![Tela de Login com Erro](    /images/tela%20login%20erro.png        )
 
 ### 3. Tela de Menu
 
-![Tela de Menu](       ![tela menu.png](../../Pictures/tela%20menu.png)           )
+![Tela de Menu](    /images/tela%20menu.png           )
 
 ### 4. Tela de Cálculo de IMC
 
-![Tela de IMC](         ![tela imc.png](../../Pictures/tela%20imc.png)            )
+![Tela de IMC](  /images/tela%20imc.png                 )
 
 ### 5. Tela de Cálculo de IMC (Resultado)
 
-![Tela de IMC com Resultado]( ![tela imc resultado.png](../../Pictures/tela%20imc%20resultado.png)      )
+![Tela de IMC com Resultado](           /images/tela%20imc%20resultado.png     )
 
 ### 6. Tela de Equipe
 
-![Tela de Equipe](  ![tela equipe.png](../../Pictures/tela%20equipe.png))
+![Tela de Equipe](  /images/tela%20equipe.png           )
