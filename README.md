@@ -1,14 +1,14 @@
 # GS 2 - Android Kotlin Developer (Jetpack Compose)
 
-[cite_start]Projeto desenvolvido para a Global Solution 2 da disciplina de Android Kotlin Developer, ministrada pelo Prof. Ewerton Carreira[cite: 3].
+Projeto desenvolvido para a Global Solution 2 da disciplina de Android Kotlin Developer, ministrada pelo Prof. Ewerton Carreira].
 
-[cite_start]O objetivo foi criar um aplicativo Android nativo utilizando exclusivamente Jetpack Compose[cite: 21], seguindo um diagrama de navegação e requisitos específicos.
+O objetivo foi criar um aplicativo Android nativo utilizando exclusivamente Jetpack Compose, seguindo um diagrama de navegação e requisitos específicos.
 
 ---
 
 ## 👨‍💻 Integrantes da Equipe
 
-[cite_start]Conforme solicitado[cite: 46], seguem os integrantes da equipe:
+Conforme solicitado, seguem os integrantes da equipe:
 
 * **Nome:** `[Bruno de Castro Granado]` - **RM:** `[551411]`
 * **Nome:** `[Lucas Henrique de Melo Silva]` - **RM:** `[550175]`
@@ -17,7 +17,7 @@
 
 ## 📱 Telas do Aplicativo
 
-[cite_start]Evidência do funcionamento do projeto[cite: 9, 45].
+Evidência do funcionamento do projeto.
 
 ### 1. Tela de Login
 
